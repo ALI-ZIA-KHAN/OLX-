@@ -1,0 +1,337 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.my_inp_1{
+    width: 330px !important;
+    min-width: 550px !important;
+}
+.caring{
+    height: 20px !important;
+}
+.gooney{
+    padding: 0% !important;
+    display: flex ;
+    flex-direction: row;
+}
+.looney{
+    width:25% !important;
+    height: 50px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    
+}
+.lello{
+    background-image: url('images/search.PNG');
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.mooney{
+    width:45% !important;
+    height: 50px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    
+
+}
+#to_gap{
+    text-align: center;
+}
+.mello{
+    background-image: url('images/search2.PNG');
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.log_in{
+    color: rgb(20, 46, 46);
+    text-decoration: underline;
+    
+    padding: 0% !important;
+    margin: 0% !important;
+    font-weight: bolder;
+    font-size: 18px;
+    margin: 0% !important;
+}
+.sell{
+    background-color: white;
+    font-weight: bolder;
+    font-family: 'Calibri';
+    box-sizing: border-box;
+    padding:0.5%;
+    border-style: solid;
+    border-width: 6px;
+    border-top-color: rgb(82, 205, 243);
+    border-bottom-color: rgb(248, 173, 120);
+    border-left-color: rgb(102, 241, 102);
+    border-right-color: rgb(223, 132, 150);
+    border-radius: 20px !important;
+    width:70px;
+    text-align: center;
+    justify-content: center;
+     
+}
+
+
+
+.actor{
+    width: 100% !important;
+}
+.ad{
+    height:120px;
+    width:80%;
+    margin: 10px auto;
+}
+.ad img{
+    height: 100%;
+    width: 100%;
+}
+.my_cards{
+   display: flex;
+   flex-wrap: wrap;
+  
+   margin: 3% auto !important;
+   margin-bottom: 2% !important;
+   justify-content: space-between;
+   justify-content: space-around;  
+   height: 290px;
+   background-color: lightgrey;
+   
+   /* min-width: 833px; */
+}
+
+.my_card{
+    width:23%;
+    height: 100%;
+    
+}
+.class_upper{
+    display: flex;
+    margin: 0% !important;
+    height: 75% !important;
+    padding:0% !important;
+ 
+}
+.feature{
+    background-color: gold;
+    margin: 4% 0% 0% 1% !important;
+    height:25px;
+}
+
+.img_size{
+    width:50% !important;
+    height:78% !important;
+    padding: 4%  2% 0% 1%;
+    margin: 0% 0% 0% 3%;
+}
+.dil{
+    margin: 4% 0% 0% 4%;
+}
+.card-body{
+  margin: 0% !important;
+  padding:0% !important;
+  
+  border-style: solid;
+  border: solid gold 4px;
+  border-bottom: none;
+  border-top: none;
+  border-right: none;
+}
+
+.card-title{
+    margin: 0% !important;
+    padding:0% !important;
+    padding-left: 3% !important;
+    font-size:21.5px;
+}
+.card-text{
+    margin: 0% !important;
+    padding:0% !important;
+    padding-left: 3% !important;
+}
+.card_date{
+    font-size: 11px;
+    float:right ;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+/* .top_part{
+display: flex
+} */
+.recom{
+    width:100%;
+}
+.recom_1{
+    justify-content: space-between !important;
+    justify-content: space-around !important;
+    padding: 3%;
+
+}
+.cards_sec{
+   box-sizing: border-box !important;
+   min-width: 17rem !important;
+   margin: 0% auto !important;
+}
+.card_high{
+position: relative;
+}
+.feat_1{
+   
+    margin-bottom: 50% !important;
+
+}
+.sec_row_img{
+    width:190px !important;
+    height: 150px !important;
+}
+.heart{
+    margin-bottom: 50% !important;
+
+}
+.card_low{
+    margin-top:10px !important;
+    height: 80px;
+}
+.card_low .prod_rate{
+    font:8px !important;
+    margin-left:78%;
+}
+.top_to{
+   text-align: center;
+   justify-content: center;
+}
+
+.ad_2{
+  width:75%;
+  height: auto;
+margin:5% auto;
+
+
+}
+
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    /* height: auto !important; */
+}
+
+
+
+.olx_mobile{
+    height:207px;
+    background-color: lightgrey;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: column !important;
+}
+.front_back{
+    width:100% !important;
+    height: 100% !important;
+}
+.two_headings{
+    width: 100% !important;
+    margin-top: 10%;
+    padding-left:5%;
+}
+/* .mob_aft h2{
+margin-top: 10%;
+padding-left:5%;
+
+} */
+
+/* .mob_aft h4{
+    margin-top: 10%;
+    
+    } */
+.mob_last{
+    border:solid 2px lightsalmon ;
+}
+.two_black div{
+    margin: 2% auto !important;
+    padding:2% ;
+    margin-left: 20% !important;
+    
+}
+
+
+
+.five_boxes{
+    background-color: rgb(233, 233, 233);
+    margin-top: 2%   !important;
+    padding:2% !important;
+   
+}
+.list_items{
+    color: teal;
+
+
+}
+.listing a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+ 
+
+
+
+.foot{
+    background-color: rgb(11, 58, 58);
+    color: white;
+    padding-top:6px !important;
+    font-size: 13px;
+}
+.foot a{
+    color: white;
+    text-decoration: none;
+}
+/* .olx_mobile img{
+    height:90%;
+ justify-content: center;
+} */
+
+
+@media only screen and (max-width: 660px) {
+    .mooney{
+     
+      width:0% !important;
+      background-image: none !important;
+      background-image: none;
+      display: none;
+      visibility: hidden;
+
+    }
+   
+   
+    
+  }
+
+  @media only screen and (max-width: 550px) {
+    .looney{
+      display: none;
+      visibility: hidden;
+    }
+   
+    
+  }
